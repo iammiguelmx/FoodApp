@@ -12,6 +12,10 @@
 		277C472E224C8173006E8511 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277C472C224C8173006E8511 /* Main.storyboard */; };
 		277C4730224C8176006E8511 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277C472F224C8176006E8511 /* Assets.xcassets */; };
 		277C4733224C8176006E8511 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277C4731224C8176006E8511 /* LaunchScreen.storyboard */; };
+		277C473B224C8B98006E8511 /* CVCFood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C473A224C8B98006E8511 /* CVCFood.swift */; };
+		277C473D224C8BFA006E8511 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C473C224C8BFA006E8511 /* Food.swift */; };
+		277C473F224C8DA5006E8511 /* Foods.plist in Resources */ = {isa = PBXBuildFile; fileRef = 277C473E224C8DA5006E8511 /* Foods.plist */; };
+		27CE7781224D184C001C348E /* VCFoodDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CE7780224D184C001C348E /* VCFoodDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		277C472F224C8176006E8511 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		277C4732224C8176006E8511 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		277C4734224C8176006E8511 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		277C473A224C8B98006E8511 /* CVCFood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVCFood.swift; sourceTree = "<group>"; };
+		277C473C224C8BFA006E8511 /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
+		277C473E224C8DA5006E8511 /* Foods.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Foods.plist; sourceTree = "<group>"; };
+		27CE7780224D184C001C348E /* VCFoodDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCFoodDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 				277C4728224C8173006E8511 /* AppDelegate.swift */,
 				277C472A224C8173006E8511 /* ViewController.swift */,
 				277C472C224C8173006E8511 /* Main.storyboard */,
+				27CE7780224D184C001C348E /* VCFoodDetails.swift */,
+				277C473E224C8DA5006E8511 /* Foods.plist */,
+				277C473C224C8BFA006E8511 /* Food.swift */,
+				277C473A224C8B98006E8511 /* CVCFood.swift */,
 				277C472F224C8176006E8511 /* Assets.xcassets */,
 				277C4731224C8176006E8511 /* LaunchScreen.storyboard */,
 				277C4734224C8176006E8511 /* Info.plist */,
@@ -122,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				277C473F224C8DA5006E8511 /* Foods.plist in Resources */,
 				277C4733224C8176006E8511 /* LaunchScreen.storyboard in Resources */,
 				277C4730224C8176006E8511 /* Assets.xcassets in Resources */,
 				277C472E224C8173006E8511 /* Main.storyboard in Resources */,
@@ -135,7 +148,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				277C473B224C8B98006E8511 /* CVCFood.swift in Sources */,
+				277C473D224C8BFA006E8511 /* Food.swift in Sources */,
 				277C472B224C8173006E8511 /* ViewController.swift in Sources */,
+				27CE7781224D184C001C348E /* VCFoodDetails.swift in Sources */,
 				277C4729224C8173006E8511 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

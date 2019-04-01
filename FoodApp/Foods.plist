@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Des</key>
+		<string>Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa </string>
+		<key>Image</key>
+		<string>coffe_pot</string>
+		<key>Name</key>
+		<string>Coffe</string>
+	</dict>
+	<dict>
+		<key>Des</key>
+		<string>Espresso is coffee of Italian origin, brewed by expressing or forcing a small amount of nearly boiling water under pressure through finely ground coffee beans. </string>
+		<key>Image</key>
+		<string>espresso</string>
+		<key>Name</key>
+		<string>Espresso</string>
+	</dict>
+    <dict>
+        <key>Des</key>
+        <string>French fries, or simply fries (North American English); chips finger chips (Indian English), or french-fried potatoes are batonnet or allumette-cut deep-fried potatoes.</string>
+        <key>Image</key>
+        <string>french_fries</string>
+        <key>Name</key>
+        <string>French Fries</string>
+    </dict>
+    <dict>
+        <key>Des</key>
+        <string>Honey is a sweet, viscous food substance produced by bees and some related insects.Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation. </string>
+        <key>Image</key>
+        <string>honey</string>
+        <key>Name</key>
+        <string>Honey</string>
+    </dict>
+    <dict>
+        <key>Des</key>
+        <string>The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries. It is cultivated worldwide for its fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, juice, pies, ice creams, milkshakes, and chocolates.</string>
+        <key>Image</key>
+        <string>strawberry_ice_cream</string>
+        <key>Name</key>
+        <string>Ice Cream</string>
+    </dict>
+    <dict>
+        <key>Des</key>
+        <string>Candy is a food usually prepared a sugar base. Caramel is achieved by cooking sugars. This can consume both the liquid and the solid.</string>
+        <key>Image</key>
+        <string>sugar_cubes</string>
+        <key>Name</key>
+        <string>Sugar Cubes</string>
+    </dict>
+</array>
+</plist>
